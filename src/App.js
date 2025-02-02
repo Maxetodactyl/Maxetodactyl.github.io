@@ -6,16 +6,17 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Welcome to Maxetow's Wiki</h1>
         <p>
-          Edit <code>Maxetow's wiki</code> and save to reload.
+          Your go-to source for all information about Maxetow! Explore articles, get the latest updates, and contribute to our growing knowledge base.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.example-wiki.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit the Wiki
         </a>
       </header>
     </div>
